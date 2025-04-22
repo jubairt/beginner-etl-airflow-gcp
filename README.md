@@ -130,21 +130,6 @@ print("ETL complete: data loaded to SQLite.")
 
 ---
 
-## 🏷️ Tags
-
-```
-#DataEngineering #SalesAnalytics #BigQuery #CloudFunctions #Python #LookerStudio #APIs
-#GCPProject #Automation #GoogleCloud #CloudComputing #SQL #ETL #DataPipeline
-#CloudStorage #DataAnalytics #BusinessIntelligence #Serverless #DataVisualization
-#CloudData #Tech #DataScience #AI #MachineLearning #Database #Analytics #DataDriven
-#GoogleCloudPlatform #EcommerceData #RetailAnalytics #SalesDashboard #CloudIntegration
-#CloudTechnology #TechCommunity #DataEngineeringProject #CloudComputingServices
-#DataTransformation #CareerGrowth #ELT #RealTimeData #MarketingAnalytics
-#RevenueIntelligence #ModernDataStack #GCS #ServerlessPipeline
-```
-
----
-
 ## 🧠 Perfect For
 
 - GCP beginners
